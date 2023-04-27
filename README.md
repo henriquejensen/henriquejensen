@@ -21,7 +21,7 @@
 [![Linkedin](https://img.shields.io/badge/-Henrique_Jensen-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henriquejensen/)
 [![GitHub](https://img.shields.io/badge/-henriquejensen-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/henriquejensen)
 [![HackerRank](https://img.shields.io/badge/-henriquejensen-success?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/henriquejensen)
-[![Stack Overflow](https://img.shields.io/badge/-henriquejensen-orange?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/8256849/henrique-jensen)
+[![Stack Overflow](https://img.shields.io/badge/-henriquejensen-orange?style=flat&logo=Stack-Overflow&logoColor=white)](https://stackoverflow.com/users/5323419/henrique-jensen)
 
 <h2>GitHub Stats 📈</h2>
 
