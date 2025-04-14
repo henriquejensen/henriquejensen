@@ -8,7 +8,7 @@
 
 <h1>About me 🙋</h1>
 
-- 💼 I'm currently working at <a href="https://www.dentsu.com/">Dentsu</a> as a Frontend Tech Leader
+- 💼 I'm currently working at <a href="https://www.dentsu.com/">Dentsu</a> as a Frontend Tech Lead
 - 🎓 I have a degree in Computer Science and have been working in the field since 2015
 - 💻 I'm proficient in React, Redux, TypeScript, Node, MongoDB, MySQL, Docker, RTL, and Jest
 - 📱 I also have experience with React Native and know Scrum methodology
